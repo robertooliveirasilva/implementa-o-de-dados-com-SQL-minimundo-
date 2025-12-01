@@ -1,12 +1,5 @@
 # implementa-o-de-dados-com-SQL-minimundo-
 EX04 Cruzeiro do Sul 
-Sim, com certeza! Preparar um bom arquivo `README.md` é crucial para qualquer repositório de projeto, pois ele serve como a documentação principal e guia de uso.
-
-Vou esboçar uma estrutura completa de `README.md` para o seu projeto **Sistema de Gestão para Padaria e Confeitaria "Pão Quente"**, incluindo as seções que comprovam a entrega da Experiência Prática 4.
-
----
-
-## 📄 Estrutura Sugerida para o `README.md`
 
 ### 🍰 Sistema de Gestão para Padaria e Confeitaria "Pão Quente"
 
